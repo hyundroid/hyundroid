@@ -25,7 +25,7 @@ SECRET_KEY = 'q=tfv+8crfu$7^x*g=rp%f7m40!5vy-l(#_*#3ngok96y%wd_p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['hyundroid.pythonanywhere.com']
 
 
 # Application definition
